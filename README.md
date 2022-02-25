@@ -1,4 +1,4 @@
-### Olá, Eu sou o Neus Moura
+### Olá, Eu sou o Neus Moura, Estudante de Ciência da Computação
 
 - 🔭 Hoje me aperfeiçoo como Front-End 
 - 🌱 Estudando HTML, Css, JavaScript, Python
