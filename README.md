@@ -1,8 +1,7 @@
 ### Olá!! Eu sou o Neus Moura, Estudante de Ciência da Computação
 
 - 🔭 Hoje me aperfeiçoo como Front-End 
-- 🌱 Estudando HTML, Css, JavaScript, Python
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando HTML, Css, JavaScript
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
