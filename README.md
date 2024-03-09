@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Neus Moura, Estudante de Ciência da Computação
 
-- 🔭 Hoje me aperfeiçoo como Front-End 
-- 🌱 Estudando HTML, Css, JavaScript
+- 🔭 Hoje estou me aprofundando em desenvolvimento de games
+- 🌱 Estudando C# com a Engine Unity
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
